@@ -1,6 +1,7 @@
 # Task-1-IIMSkills
 1200 words technical article
 * Compact A4 printer 
+* 
 The PRT MT800 Portable A4 Wireless Bluetooth Thermal Printer, stands out as a pioneer in the world of printers. Due to its compact size, and an easy fit in your backpack assists you to print, in any sort of situation, even when you are on a business trip or travel. It’s wide compatibility ranges across all available OS, ranging from Windows, iOS, Linux, Android, Ubuntu etc., This superior product comes with a 5.1 Bluetooth compatibility and a 20 feet range connectivity. As well supports with A4 quality printing 216 mm wide printing. This wireless portable printer has a built-in 3400mAh lithium battery, which can stand by for 38 hours when fully charged and can print 99* sheets.
 
 **HOW TO USE**
@@ -24,6 +25,7 @@ PRT MT800 Portable A4 Wireless Bluetooth Thermal Printer model from the HP Print
 This PRT MT800 Portable A4 Wireless Bluetooth Thermal Printer has a dimension of 12 x 2.5 x 1.5 inches, making it one of the finest compact sized printers in this range, leaving a challenge to the tech world, through its novel creation.
 
 **CONNECTIVITY**
-Upgraded version of the device is equipped with Bluetooth 5.1 version compatibility and can be operated from a distance range of 20 feet., and it is compatible with all operating systems and devices with the basic level of OS Versions. Once installed on any Bluetooth enabled device, just switch on your printer, pair it (via Bluetooth) with the device from which you want to operate the printer and unleash the printing beast. 
+Upgraded version of the device is equipped with Bluetooth 5.1 version compatibility and can be operated from a distance range of 20 feet., and it is compatible with all operating systems and devices with the basic level of OS Versions. Once installed on any Bluetooth enabled device, just switch on your printer, pair it (via Bluetooth) with the device from which you want to operate the printer and unleash the printing beast.
+
 **PERFORMANCE**
 This device is unparallel in surpassing the performance levels of all devices in this category. Equipped with a lithium battery of 3400mAh, with a standby capacity up to 38 hrs. in a single charge, allows the user to take 99* prints of outstanding quality, hassle free. Its really a beast in performance and synonymous to the word PERFECTION.
